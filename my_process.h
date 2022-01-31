@@ -1,0 +1,2 @@
+#ifndef MY_PROCESS_H
+#def MY_PROCESS_H
